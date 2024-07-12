@@ -20,6 +20,18 @@
 - Make sure it is your selected local network in Metamask.
 - use the information generated in the terminal to add the new network in the Metamask.
 
+```
+  
+Browser Extension connection details (any node URL from above works):
+RPC URL:           http://127.0.0.1:9650/ext/bc/EVjDqtHzLcPXLsf8BdMdX37AKDpwMvKwkDSDLGuzDHAtKzNmG/rpc
+Funded address:    0x8db97C7cEcE249c2b98bDC0226Cc4C2A57BF52FC with 1000000 (10^18) - private key: 56289e99c94b6912bfc12adc093c9b51124f0dc54ac7a766b2bc5ccf558d8027
+Funded address:    0xAA86F106389545f950b6d49C34255337CA74d724 with 600 (10^18)
+Network name:      mySubnet
+Chain ID:          120224
+Currency Symbol:   PRO
+
+```
+
 ### Connect Remix to your Metamask
 - Use the Injected Provider.
 
@@ -30,5 +42,9 @@
 
 
 
-### Author
+## Author
 Pratap Singh
+[@pratapsingh24](https://github.com/pratapsingh24/)
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
